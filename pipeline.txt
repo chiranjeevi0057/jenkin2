@@ -8,7 +8,7 @@ pipeline {
 
        GIT_REPO_URL = 'https://github.com/chiranjeevi0057/jenkin2.git'
 
-       NGINX_PATH = 'C:\Users\Admin\Downloads\nginx-1.24.0.zip'
+       NGINX_PATH = 'C:\Users\Admin\Downloads\nginx-1.24.0\nginx-1.24.0'
 
    }
 
